@@ -1,6 +1,7 @@
 {
     "name": "tuancutedeptrai/reponaodo",
     "require": {	
-		"trinhduyen1505/be2": "*"
+	
+	    "trongtinh2k/demo-composer": "*",
     }
 }
