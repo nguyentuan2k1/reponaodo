@@ -11,7 +11,8 @@
 	}		
 	],		
 	"license": "MIT",		
-	"require": {		
+	"require": {	
+		"trinhduyen1505/be2": "*"
 	},		
 	"autoload": {		
 	"psr-4": {		
