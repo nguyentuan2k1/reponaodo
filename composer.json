@@ -2,6 +2,6 @@
     "name": "tuancutedeptrai/reponaodo",
     "require": {	
 	
-	    "trongtinh2k/demo-composer": "*",
+	    "trongtinh2k/demo-composer": "*"
     }
 }
