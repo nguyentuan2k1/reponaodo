@@ -1,23 +1,6 @@
-	{		
-	"name": "tuancutedeptrai/reponaodo",		
-	"description": "Create text",		
-	"keywords": [		
-	],		
-	"authors": [		
-	{		
-	"name": "tuandeptrai",		
-	"email": "boigaming1411@gmail.com",		
-	"homepage": "http://tailieuweb.com"		
-	}		
-	],		
-	"license": "MIT",		
-	"require": {	
+{
+    "name": "tuancutedeptrai/reponaodo",
+    "require": {	
 		"trinhduyen1505/be2": "*"
-	},		
-	"autoload": {		
-	"psr-4": {		
-	"Tailieuweb\\Backend\\": "/"	
-	}		
-	},		
-	"minimum-stability": "dev"		
-	}		
+    }
+}
