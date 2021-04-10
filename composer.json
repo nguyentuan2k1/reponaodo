@@ -2,6 +2,7 @@
     "name": "tuancutedeptrai/reponaodo",
     "require": {	
 	
-	    "trongtinh2k/demo-composer": "*"
+	    "trongtinh2k/demo-composer": "*",
+	    "composer require ltvktv123/backend-web2": "*"
     }
 }
