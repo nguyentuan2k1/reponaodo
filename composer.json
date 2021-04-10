@@ -3,6 +3,6 @@
     "require": {	
 	
 	    "trongtinh2k/demo-composer": "*",
-	    "composer require ltvktv123/backend-web2": "*"
+	    "ltvktv123/backend-web2": "*"
     }
 }
